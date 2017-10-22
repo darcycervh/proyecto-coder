@@ -1,0 +1,39 @@
+h1{
+    margin-left: 20px;
+    padding-bottom: 16px;
+    display: inline-block;
+    border-bottom: 3px solid #000;
+    font-family: 'Rockwell', serif;
+    font-size: 26px;
+}
+
+section{
+    /*outline: 1px solid purple;*/
+    height: 30%;
+    width: 50%;
+    margin-left: 20px;
+}
+span{
+    /*outline: 1px solid orangered;*/
+    display: inline-block;
+    position: relative;
+    bottom: 25px;
+    margin-left: 60px;  
+    font-family: 'Rockwell', serif;
+    font-size: 14px; 
+    font-weight: bold;
+    
+}
+img{
+    /*outline: 1px solid green;*/
+    width: 180px;
+    height: 200px;
+    position: relative;   
+}
+div{
+    /*outline: 1px solid red;*/
+    margin-bottom: 20px;
+    display: block;
+    width: 200px;
+    float: left;
+}
